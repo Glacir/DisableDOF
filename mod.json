@@ -1,0 +1,15 @@
+{
+    "Name": "Disable DOF",
+    "Description": "Disable DOF when entering lobby by FlameRaptor",
+    "Version": "1.0.0",
+    "LoadPriority": "2",
+    "Scripts": [
+        {
+            "Path": "disableDOF.gnut",
+            "RunOn": "LOBBY",
+            "ClientCallback": {
+                "After": "DisableDOF_Init"
+            }
+        }
+    ]
+}

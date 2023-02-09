@@ -1,0 +1,11 @@
+global function DisableDOF_Init
+
+void function DisableDOF_Init()
+{
+    DisableDOF()
+}
+
+void function DisableDOF()
+{
+    GetLocalClientPlayer().ClientCommand("dof_enable 0")
+}
