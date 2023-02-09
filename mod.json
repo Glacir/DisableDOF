@@ -2,7 +2,7 @@
     "Name": "Disable DOF",
     "Description": "Disable DOF when entering lobby by FlameRaptor",
     "Version": "1.0.0",
-    "LoadPriority": "2",
+    "LoadPriority": "0",
     "Scripts": [
         {
             "Path": "disableDOF.gnut",
