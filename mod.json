@@ -1,6 +1,6 @@
 {
-    "Name": "Disable DOF",
-    "Description": "Disable DOF when entering lobby by FlameRaptor",
+    "Name": "Disable DOF in Lobby",
+    "Description": "Disable DOF in Lobby by FlameRaptor",
     "Version": "1.0.0",
     "LoadPriority": "0",
     "Scripts": [
